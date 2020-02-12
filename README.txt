@@ -1,0 +1,1 @@
+Dit project is om OOP in javascript te leren en tegelijkertijd het gebruiken van git & github in mijn editor.
